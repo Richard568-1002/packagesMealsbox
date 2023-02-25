@@ -1,0 +1,15 @@
+com\mealsbox\packages\models\CarritoCompras.class
+com\mealsbox\packages\models\DetallePedido.class
+com\mealsbox\packages\models\Estado.class
+com\mealsbox\packages\models\Tienda.class
+com\mealsbox\packages\models\Venta.class
+com\mealsbox\packages\models\Comentario.class
+com\mealsbox\packages\models\Cliente.class
+com\mealsbox\packages\models\Pedido.class
+com\mealsbox\packages\models\Categoria.class
+com\mealsbox\packages\models\ImagenProducto.class
+com\mealsbox\packages\PackagesApplication.class
+com\mealsbox\packages\models\Producto.class
+com\mealsbox\packages\models\Usuario.class
+com\mealsbox\packages\models\MetodoPago.class
+com\mealsbox\packages\models\DireccionCliente.class
